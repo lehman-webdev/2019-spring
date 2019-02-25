@@ -4,7 +4,7 @@
 Fall, 2018 – [Academic Calendar](http://www.lehman.edu/registrar/documents/2018/fall-2018-undergrad-academic-calendar.pdf)
 
 **Instructor:** Ross Dakin  
-**Lecture:** Monday/Wednesday 6:00-9:30 p.m. (Gillet 207)  
+**Lecture:** Monday 6:00-9:30 p.m. (Gillet 207)  
 **Office Hours:** By Apointment (in person) or on Slack (virtual)
 **Grading:** Letter Grade
 
