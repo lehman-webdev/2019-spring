@@ -5,21 +5,21 @@ Spring, 2019 – [Academic Calendar](http://www.lehman.edu/registrar/documents/S
 
 **Instructor:** Ross Dakin  
 **Lecture:** Monday 6:00-9:30 p.m. (Gillet 207)  
-**Office Hours:** By Apointment (in person) / [Slack](https://lehman-webdev.slack.com/messages/GG4CKP5PX) (virtual)
+**Office Hours:** By Appointment (in person) or on Slack (virtual)
 **Grading:** Letter Grade
 
-## Rationalle
+## Rationale
 
-In a world increasingly-connected by the Internet, the World Wide Web has emerged as a nearly-ubiquitous platform for personal communication, business operations, and global information sharing.
+In a world increasingly connected by the Internet, the World Wide Web has emerged as a nearly-ubiquitous platform for personal communication, business operations, and global information sharing.
 
-Any student of a technological field-and especially students of computer science/engineering-would be well-served by developing an understanding of the web and a proficiency in creation of the applications that it enables.
+Any student of a technological field-and especially students of computer science/engineering-would be well-served by developing an understanding of the web and a proficiency in the creation of the applications that it enables.
 
 ## Course Aims and Outcomes 
 ### Aims
 As a result of participating in this course, students will be able to explain the various elements of the web ecosystem, demonstrate proficiency in the fundamental languages of web programming, and create front-end web applications using contemporary tooling in preparation for a career involving web development. 
 
 ### Specific Learning Outcomes
-By the end of this course, students will be well-versed in the fundamentals of web application development. Emphasis is placed on developing a foundation in plain HTML, CSS, and JavaScript, including a knowledge of their historical revisions and browser adoption of their latest versions. Building on this foundation, client-side JavaScript frameworks are introduced; students will learn the concepts, syntax, and benefits of jQuery (as it is still widely used despite having fallen out of favor for newer frameworks) then learn a more contemporary front-end JavaScript framework (e.g. vue.js). The course will discuss back-end web application constructs such as databases, application servers, and network infrastructure, placing an emphasis on API-driven programming paradigms. By the completion of the course, students will be able to develop a client-side web application utilizing third-party data APIs and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
+By the end of this course, students will be well-versed in the fundamentals of web application development. Emphasis is placed on developing a foundation in plain HTML, CSS, and JavaScript, including a knowledge of their historical revisions and browser adoption of their latest versions. Building on this foundation, client-side JavaScript frameworks are introduced; students will learn the concepts, syntax, and benefits of jQuery (as it is still widely used despite having fallen out of favor for newer frameworks) then learn a more contemporary front-end JavaScript framework (e.g. vue.js). The course will discuss back-end web application constructs such as databases, application servers, and network infrastructure, placing an emphasis on API-driven programming paradigms. By the completion of the course, students will be able to develop a client-side web application utilizing third-party data APIs and discuss the benefits of various architectures, design patterns, and elements of production-readiness. Specific concepts and technologies are highlighted in the course schedule below.
 
 ## Format and Procedures
 This course meets twice per week for two 100-minute periods without an additional lab component. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized over attendance and summative assessment.
@@ -38,7 +38,7 @@ Tasks and assignments are intended to align with the learning outcomes specified
 
 Attendance is not a graded component of this class, though students are encouraged to attend all lectures to fully benefit from the delivered lectures and peer discussion. 
 
-### Course readings
+### Course Readings
 
 In adhering to "real-world" industry norms, this class does not have any required texts, as all course material can be obtained through various free online resources. However, various readings will be recommended during the course of this class and will likely be helpful to student learning. Opportunities for extra credit may be available throughout the course.
 
@@ -62,7 +62,7 @@ The intentions of these assignments are:
   - Practice writing code
   - Practice using GitHub (delivery/submission vehicle)
 - **Projects**
-  - Demonstrate ability to develop responsive static website and dynamic web application
+  - Demonstrate the ability to develop a responsive static website and dynamic web application
   - Add to students' public GitHub portfolios
   - Practice code collaboration
 - **Written Exams**
@@ -78,7 +78,7 @@ Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
 1	| Jan. 28 | Intro, surveys, the web, HTML, URL anatomy | -- | -- | --
 2 | Feb. 4 | HTML | -- | -- | --
-3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | [HW-1](https://classroom.github.com/a/v9oHQWhu) | --
+3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | HW-1 | --
 -- | Feb. 18 | **NO CLASS** | -- | -- | --
 4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups | -- | HW-2 | HW-1
 5 | Mar. 4 | **[VIRTUAL]** Discuss Project 1, HTML/CSS review | -- | Project 1 | --
