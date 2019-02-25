@@ -5,7 +5,7 @@ Spring, 2019 – [Academic Calendar](http://www.lehman.edu/registrar/documents/S
 
 **Instructor:** Ross Dakin  
 **Lecture:** Monday 6:00-9:30 p.m. (Gillet 207)  
-**Office Hours:** By Apointment (in person) or on Slack (virtual)
+**Office Hours:** By Apointment (in person) / [Slack](https://lehman-webdev.slack.com/messages/GG4CKP5PX) (virtual)
 **Grading:** Letter Grade
 
 ## Rationalle
