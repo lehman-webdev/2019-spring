@@ -48,7 +48,7 @@ This course will employ the following assignments:
 
 Assignment|Percent|Format|Content
 --|--|--|--
-Homework (8)|20% (2.5 each)|Individual|All material.
+Homework (5)|20% (4% each)|Individual|All material.
 Project 1|20%|Group|HTML, CSS
 Midterm|15%|Individual|HTML, CSS
 Project 2|25%|Group|HTML, CSS, JS
@@ -78,20 +78,20 @@ Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
 1	| Jan. 28 | Intro, surveys, the web, HTML, URL anatomy | -- | -- | --
 2 | Feb. 4 | HTML | -- | -- | --
-3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | Homework 1 | --
+3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | HW-1 | --
 -- | Feb. 18 | **NO CLASS** | -- | -- | --
-4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups, discuss Project 1 | -- | Homework 2 | Homework 1
-5 | Mar. 4 | -- | -- | Project 1 | Homework 2
-6 | Mar. 11 | -- | -- | -- | --
-7 | Mar. 18 | Project 1 demos, midterm review | -- | -- | Project 1
-8 | Mar. 25 | **Midterm**, JavaScript intro | -- | -- | --
-9 | Apr. 1 | -- | -- | -- | --
-10 | Apr. 8 | -- | -- | -- | --
-11 | Apr. 15 | -- | -- | Project 2 | --
+4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups, discuss Project 1 | -- | HW-2 | HW-1
+5 | Mar. 4 | -- | -- | Project 1 | --
+6 | Mar. 11 | -- | -- | -- | HW-2
+7 | Mar. 18 | Project 1 demos, midterm review | -- | -- | **Project 1**
+8 | Mar. 25 | **Midterm**, JavaScript intro | -- | HW-3 | --
+9 | Apr. 1 | -- | -- | HW-4 | HW-3
+10 | Apr. 8 | -- | -- | HW-5 | HW-4
+11 | Apr. 15 | -- | -- | Project 2 | HW-5
 -- | Apr. 22 | **NO CLASS** | -- | -- | --
 12 | Apr. 29 | -- | -- | -- | --
 13 | May 6 | -- | -- | -- | --
-14 | May 13 | Project 2 demos, final review | -- | -- | Project 2
+14 | May 13 | Project 2 demos, final review | -- | -- | **Project 2**
 F | May 20 | **Final Exam** | -- | -- | --
 
 ## Academic Integrity
