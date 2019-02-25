@@ -76,23 +76,23 @@ May change to accommodate guest presenters and student needs.
 
 Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
-1	| Jan. 28 | -- | -- | -- | --
-2 | Feb. 4 | -- | -- | -- | --
-3 | Feb. 11 | -- | -- | -- | --
+1	| Jan. 28 | Intro, surveys, the web, HTML, URL anatomy | -- | -- | --
+2 | Feb. 4 | HTML | -- | -- | --
+3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | Homework 1 | --
 -- | Feb. 18 | **NO CLASS** | -- | -- | --
-4 | Feb. 25 | -- | -- | -- | --
-5 | Mar. 4 | -- | -- | -- | --
+4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups, discuss Project 1 | -- | Homework 2 | Homework 1
+5 | Mar. 4 | -- | -- | Project 1 | Homework 2
 6 | Mar. 11 | -- | -- | -- | --
-7 | Mar. 18 | -- | -- | -- | --
-8 | Mar. 25 | -- | -- | -- | --
+7 | Mar. 18 | Project 1 demos, midterm review | -- | -- | Project 1
+8 | Mar. 25 | **Midterm**, JavaScript intro | -- | -- | --
 9 | Apr. 1 | -- | -- | -- | --
 10 | Apr. 8 | -- | -- | -- | --
-11 | Apr. 15 | -- | -- | -- | --
+11 | Apr. 15 | -- | -- | Project 2 | --
 -- | Apr. 22 | **NO CLASS** | -- | -- | --
 12 | Apr. 29 | -- | -- | -- | --
 13 | May 6 | -- | -- | -- | --
-14 | May 13 | -- | -- | -- | --
-F | May 20 | Final Exam | -- | -- | --
+14 | May 13 | Project 2 demos, final review | -- | -- | Project 2
+F | May 20 | **Final Exam** | -- | -- | --
 
 ## Academic Integrity
 
