@@ -5,7 +5,7 @@ Spring, 2019 – [Academic Calendar](http://www.lehman.edu/registrar/documents/S
 
 **Instructor:** Ross Dakin  
 **Lecture:** Monday 6:00-9:30 p.m. (Gillet 207)  
-**Office Hours:** By Appointment (in person) or on Slack (virtual)
+**Office Hours:** By Appointment (in person) / [Slack](https://lehman-webdev.slack.com/messages/GG4CKP5PX) (virtual)
 **Grading:** Letter Grade
 
 ## Rationale
@@ -78,7 +78,7 @@ Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
 1	| Jan. 28 | Intro, surveys, the web, HTML, URL anatomy | -- | -- | --
 2 | Feb. 4 | HTML | -- | -- | --
-3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | HW-1 | --
+3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | [HW-1](https://classroom.github.com/a/v9oHQWhu) | --
 -- | Feb. 18 | **NO CLASS** | -- | -- | --
 4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups | -- | HW-2 | HW-1
 5 | Mar. 4 | **[VIRTUAL]** Discuss Project 1, HTML/CSS review | -- | Project 1 | --
