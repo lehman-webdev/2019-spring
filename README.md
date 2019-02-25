@@ -78,7 +78,7 @@ Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
 1	| Jan. 28 | Intro, surveys, the web, HTML, URL anatomy | -- | -- | --
 2 | Feb. 4 | HTML | -- | -- | --
-3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | HW-1 | --
+3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | [HW-1](https://classroom.github.com/a/v9oHQWhu) | --
 -- | Feb. 18 | **NO CLASS** | -- | -- | --
 4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups, discuss Project 1 | -- | HW-2 | HW-1
 5 | Mar. 4 | -- | -- | Project 1 | --
