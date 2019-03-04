@@ -81,7 +81,7 @@ Lecture | Date | Content | Readings | Assigned | Due
 3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | [HW-1](https://classroom.github.com/a/v9oHQWhu) | --
 -- | Feb. 18 | **NO CLASS** | -- | -- | --
 4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups | -- | HW-2 | HW-1
-5 | Mar. 4 | **[VIRTUAL]** Discuss Project 1, HTML/CSS review | -- | Project 1 | --
+5 | Mar. 4 | **NO CLASS (WEATHER)** Discuss Project 1, HTML/CSS review | -- | Project 1 | --
 6 | Mar. 11 | **[VIRTUAL]** Project 1 check-in, collaboration time | -- | -- | HW-2
 7 | Mar. 18 | Project 1 demos, midterm review | -- | -- | **Project 1**
 8 | Mar. 25 | **Midterm**, JavaScript intro | -- | HW-3 | --
