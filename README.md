@@ -80,14 +80,14 @@ Lecture | Date | Content | Readings | Assigned | Due
 2 | Feb. 4 | HTML | -- | -- | --
 3 | Feb. 11 | HTML/CSS, Slack, GitHub | -- | [HW-1](https://classroom.github.com/a/v9oHQWhu) | --
 -- | Feb. 18 | **NO CLASS** | -- | -- | --
-4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups | -- | HW-2 | HW-1
+4 | Feb. 25 | Review HW-1, CSS, page layout, form project groups | -- | -- | HW-1
 5 | Mar. 4 | **NO CLASS (WEATHER)** Discuss Project 1, HTML/CSS review | -- | Project 1 | --
-6 | Mar. 11 | **[VIRTUAL]** Project 1 check-in, collaboration time | -- | -- | HW-2
-7 | Mar. 18 | Project 1 demos, midterm review | -- | -- | **Project 1**
-8 | Mar. 25 | **Midterm**, JavaScript intro | -- | HW-3 | --
-9 | Apr. 1 | -- | -- | HW-4 | HW-3
-10 | Apr. 8 | -- | -- | HW-5 | HW-4
-11 | Apr. 15 | -- | -- | Project 2 | HW-5
+6 | Mar. 11 | **[VIRTUAL]** Project 1 check-in, collaboration time | -- | -- | --
+7 | Mar. 18 | Project 1 demos, midterm review | -- | -- | --
+8 | Mar. 25 | **Midterm** | -- | -- | --
+9 | Apr. 1 | JavaScript intro | -- | -- | --
+10 | Apr. 8 | -- | -- | -- | **Project 1**
+11 | Apr. 15 | -- | -- | Project 2 | --
 -- | Apr. 22 | **NO CLASS** | -- | -- | --
 12 | Apr. 29 | -- | -- | -- | --
 13 | May 6 | -- | -- | -- | --
